@@ -1,0 +1,5 @@
+# block definitions
+bdef symbol:l width:50 height:25 hit_points:3 fill-3:image(block_images/train.jpg) fill-2:color(red) fill-1:color(green) stroke:color(black)
+
+# spacers definitions
+sdef symbol:- width:30

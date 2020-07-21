@@ -1,0 +1,8 @@
+# default values for blocks
+
+# block definitions
+
+bdef symbol:s height:128 width:128 hit_points:1 fill:image(block_images/bee.png)
+
+# spacers definitions
+sdef symbol:- width:50

@@ -1,0 +1,11 @@
+# default values for blocks
+default height:25 width:50 hit_points:1 fill:image(block_images/chicken.png)block_images/egg.jpg
+
+# block definitions
+bdef symbol:g hit_points:3  fill-1:image(block_images/dog.png) fill-2:image(block_images/dog.png) fill-3:image(block_images/bone.png)
+bdef symbol:b hit_points:2  fill-1:image(block_images/dog.png)
+
+
+
+# spacers definitions
+sdef symbol:- width:50
